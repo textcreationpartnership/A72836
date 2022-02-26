@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faythfull louers resolution being forsaken of a coy and faythles dame. To the tune of, My deere and only loue take heed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72836</idno>
+            <idno type="STC">STC 16862.5</idno>
+            <idno type="STC">ESTC S124574</idno>
+            <idno type="EEBO-CITATION">99900286</idno>
+            <idno type="PROQUEST">99900286</idno>
+            <idno type="VID">150697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150697)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1972:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faythfull louers resolution being forsaken of a coy and faythles dame. To the tune of, My deere and only loue take heed.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>[by J. White?] for P. Birch,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1618?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printe's name and date of publication from STC.</note>
+                  <note>Verse - "Though booteles I must needs complaine".</note>
+                  <note>In two parts, printed side by side; the second part has title: The coy maydens answere. To the same tune.</note>
+                  <note>Reproduction of original in the Pepysian Library, Magdalene College, Cambridge, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love poetry --  Early works to 1800.</term>
+               <term>Loyalty --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="256" facs="tcp:150697:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>The faythfull Louers reſolution, <hi>b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing forſaken of a coy and faythles Dame.</hi>
+            </head>
+            <opener>To the tune of, My deere and only Loue take heed.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THough booteles I muſt needs complaine</l>
+               <l>my fate is ſo extreame,</l>
+               <l>I lou'd, and was belou'd againe,</l>
+               <l>yet all was but a dreame:</l>
+               <l>For as that loue was quickly got,</l>
+               <l>ſo t'was as quickly gon,</l>
+               <l>Ile touch no more a flame ſo hot,</l>
+               <lg type="refrain">
+                  <l>Ile rather lye alone,</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No Creature be ſhe nere ſo fayre</l>
+               <l>ſhall any way beguile</l>
+               <l>My fancy with a feyned teare,</l>
+               <l>nor tempt me with a ſmile:</l>
+               <l>Ile neuer thinke affection ſounde</l>
+               <l>that is ſo plainely ſhowne,</l>
+               <l>Nor build on faith before tis found,</l>
+               <lg type="refrain">
+                  <l>Ile rather lye alone.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Should now the little God conſpire</l>
+               <l>againe t'intrap my mind,</l>
+               <l>Or ſtriue to ſet my heart on fire<g ref="char:punc">▪</g>
+               </l>
+               <l>alas the Boy's to blinde:</l>
+               <l>For ſithes Ile neuer venter ſmiles,</l>
+               <l>nor hazard mirth for mone,</l>
+               <l>Nor yet regard a Womans wiles,</l>
+               <lg type="refrain">
+                  <l>Ile rather lye alone.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>The blazing Torch is ſoone burnt out.</l>
+               <l>the Diamond light abides,</l>
+               <l>The firſt her glory hurles aboute,</l>
+               <l>the next her vertue hides:</l>
+               <l>The Sparke if any ſhall be mine,</l>
+               <l>that elſe ſhewes light to none,</l>
+               <l>For if to euery eye ſhe ſhine,</l>
+               <lg type="refrain">
+                  <l>Ile rather lye alone.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>No Woman ſhall deceiue my thoughts</l>
+               <l>with colours not in graine,</l>
+               <l>Nor put a Loue ſo ſlightly wrought</l>
+               <l>into my hands againe:</l>
+               <l>Ile pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no more ſo deere for witte,</l>
+               <l>but liue vpon mine owne,</l>
+               <l>Nor ſhall affection conquer it,</l>
+               <lg type="refrain">
+                  <l>Ile rather lye alone.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And now Ile ſet my heart at reſt,</l>
+               <l>in louing, labours loſt,</l>
+               <l>Ile be no more ſo rarely bleſt</l>
+               <l>to be ſo ſtrangely croſt:</l>
+               <l>The loue loſt Turtle ſo will dye,</l>
+               <l>the Phenixe is but one,</l>
+               <l>They ſeeke no Mates, no more will I,</l>
+               <lg type="refrain">
+                  <l>but euer lye alone.</l>
+               </lg>
+            </lg>
+         </div>
+         <div type="ballad">
+            <pb n="257" facs="tcp:150697:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>The coy Maydens anſwere.</head>
+            <opener>To the ſame tune.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IF that your loue was but a dreame,</l>
+               <l>what Woman cares for loue?</l>
+               <l>There is no meane if this extreame,</l>
+               <l>therefore your ſute remooue:</l>
+               <l>It booteth not for to complaine,</l>
+               <l>then pray ſir ſeaſe your mone;</l>
+               <l>Deſires hot flame augments your paine,</l>
+               <l>you ſtill may lye alone.</l>
+            </lg>
+            <lg>
+               <l>If beauty in a Womans face</l>
+               <l>doth reſidence there keepe?</l>
+               <l>She muſt not in her heart giue place</l>
+               <l>to all can ſeygne and weepe:</l>
+               <l>But you doe ſay tis Womens wiles</l>
+               <l>that cauſeth Men to mone,</l>
+               <l>When all doe know you doe beguil's,</l>
+               <l>and let's not lye alone.</l>
+            </lg>
+            <lg>
+               <l>If <hi>Cupid</hi> caught you in his ſnare,</l>
+               <l>you muſt endure the paine,</l>
+               <l>And eyther ſpeake him foule or faire,</l>
+               <l>your liberty to gaine;</l>
+               <l>For ſith, or ſob, I will not loue,</l>
+               <l>my beauty is mine owne,</l>
+               <l>An other man my heart muſt prooue,</l>
+               <l>and you muſt lye alone.</l>
+            </lg>
+            <lg>
+               <l>The burning Taper ſpends it ſelfe</l>
+               <l>for to giue others light:</l>
+               <l>The Diamond is eſteem'd for wealth,</l>
+               <l>and in the darke ſhowes bright<g ref="char:punc">▪</g>
+               </l>
+               <l>But like the Torch Ile neuer be,</l>
+               <l>Ile firſt be like the Stone,</l>
+               <l>And nere will yeeld in loue to thee,</l>
+               <l>But rather lye alone.</l>
+            </lg>
+            <lg>
+               <l>If that I ſhewd my ſelfe once kind,</l>
+               <l>and partly did you loue,</l>
+               <l>May I not therefore change my minde,</l>
+               <l>and otherwiſe remooue,</l>
+               <l>You ſhould haue held me faſter ſure,</l>
+               <l>and not haue let me gone,</l>
+               <l>Ile come no more vnto your lure,</l>
+               <l>but let you lye alone.</l>
+            </lg>
+            <lg>
+               <l>If Phenixe like you doe intend</l>
+               <l>to end your daies in fire,</l>
+               <l>My life I meane not ſo to ſpend,</l>
+               <l>my thoughtes are mounted higher:</l>
+               <l>Ile loue and bill like Turtle-doues,</l>
+               <l>although it breed your mone;</l>
+               <l>When you are gon there is more Loues,</l>
+               <l>I will not lye alone.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for <hi>P. Birch.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
